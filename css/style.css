@@ -1,7 +1,19 @@
             body {
                 background-color: green;
             }
+.container {
+  width: 800px;
+  border: 1px solid #000000;
+  padding: 20px ;
+  margin: 0 auto o auto;
+}
 
+/* for main nav */
+li{
+  display: inline;
+  list-style-type: none;
+  
+}
             .red-box {
                 width: 200px;
                 height: 200px;
